@@ -14,5 +14,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Link
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify Link](https://000-fem-qr-code.netlify.app/)
 
